@@ -175,12 +175,12 @@
 - Bio: Software Developer.
 - GitHub: [Anil](https://github.com/anil-goudar)
 
-### Name: [Mahima Kriti](ttps://github.com/MAHIMAKRITI)
+### Name: [Mahima Kriti](https://github.com/MAHIMAKRITI)
 
 
  -Place:Kolkata,West Bengal
  -Bio:Student
- -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
+ -GitHub:[MAHIMAKRITI](https://github.com/MAHIMAKRITI)
 
 #### Name: [Prachi Vaishnav](https://github.com/vaishnavprachi98)
 
@@ -194,10 +194,17 @@
 
  -Place:São Paulo, Brazil
  -Bio:Student
- -GitHub:[KARENKANASHIRO](ttps://github.com/karenkanashiro)
+ -GitHub:[KARENKANASHIRO](https://github.com/karenkanashiro)
 
-### Name: [Sushrit Saha](ttps://github.com/Sushritsaha)
+### Name: [Sushrit Saha](https://github.com/Sushritsaha)
 
  -Place:Kolkata,West Bengal
  -Bio:Student
- -GitHub:[Sushritsaha](ttps://github.com/Sushritsaha)
+ -GitHub:[Sushritsaha](https://github.com/Sushritsaha)
+ 
+ ### Name: [Arindam Ghosh](https://github.com/pappughosh)
+
+ -Place:Kolkata,West Bengal
+ -Bio:Student
+ -GitHub:[pappughosh](https://github.com/pappughosh)
+
